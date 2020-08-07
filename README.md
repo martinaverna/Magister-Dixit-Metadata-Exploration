@@ -70,5 +70,3 @@ Cite this repository as: Martina Verna. (2020, August 7). martinaverna/Magister-
 ## Project Attribution
 The project was created by **Martina Verna** as part of her thesis project for KU Leuven’s [Advanced Master in Digital Humanities](https://onderwijsaanbod.kuleuven.be/opleidingen/e/CQ_52330579.htm#activetab=diploma_omschrijving): <br> 
 Martina Verna, *Digital Heritage Collections as Open Data. Exploring methods and tools for publishing bibliographic metadata and promoting their use*, KU Leuven Master of Digital Humanities (2019-2020).
-
-
