@@ -63,7 +63,7 @@ An executable version of the notebook can also be accessed through [![Binder](ht
 ## Cite this repository
 When referring to or using the data repository in research publications and documentation, consider citing it with its digital object identifier (DOI) that is minted in Zenodo. <br> 
 Cite the original dataset as: KU Leuven Libraries, Digitisation Department. (2020). Magister Dixit Collection [Dataset]. Zenodo. http://doi.org/10.5281/zenodo.3973116. <br>
-Cite this repository as: Martina Verna. (2020, August 7). martinaverna/Magister-Dixit-Metadata-Exploration: Magister Dixit Metadata Exploration (Version v1.0). Zenodo. http://doi.org/10.5281/zenodo.3975906 
+Cite this repository as: Martina Verna. (2020, August 7). martinaverna/Magister-Dixit-Metadata-Exploration: Magister Dixit Metadata Exploration (Version v1.0). Zenodo. http://doi.org/10.5281/zenodo.3975906. 
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3973116.svg)](https://doi.org/10.5281/zenodo.3973116)  [![DOI](https://zenodo.org/badge/281373610.svg)](https://zenodo.org/badge/latestdoi/281373610)
 
