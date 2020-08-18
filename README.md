@@ -59,7 +59,7 @@ The data processing of the original data set consisted in the following actions:
 # The Magister Dixit Jupyter Notebook
 The Magister Dixit Jupyter Notebook is offered as a tool for exploring and analysing the Magister Dixit metadata collection. It is meant to be reproduced and used as inspiration for further data visualisations and algorithmic processing of the Magister Dixit metadata. <br>
 An executable version of the notebook can also be accessed through [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/martinaverna/Magister-Dixit-Metadata-Exploration/master?filepath=Magister-Dixit-Jupyter-Notebook.ipynb) (click on the widget and wait some seconds for the repository to load). <br>
-Once the Notebook is open in Binder, run the following: <br>
+Once the Notebook is open in Binder, add a cell at the beginning and run the following: <br>
 import sys <br>
 !{sys.executable} -m pip install pandas (if you are using pyp) <br>
 or <br>
