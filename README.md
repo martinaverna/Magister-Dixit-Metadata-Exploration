@@ -56,6 +56,10 @@ The data processing of the original data set consisted in the following actions:
 - creation of new columns: ‘Professor’, ‘Student’, ‘Author_original_work’, ‘Other’, ‘Printer’, ‘Engraver’, ‘Illustrator’, ‘ Etcher’, ‘Adapter’, ‘Artist’ whose content is based on role specifications included in column ‘Contributors’ (MARC sub-field $4);
 - removal of MARC field representation positioned in beginning of string (“00$” and “\\$a”) and addition of white spacing between subfields in the same string in order to enhance legibility.
 
+Note: <br>
+- The symbol (:::) is used to separate values in multivalued cells.
+
+
 # The Magister Dixit Jupyter Notebook
 The Magister Dixit Jupyter Notebook is offered as a tool for exploring and analysing the Magister Dixit metadata collection. It is meant to be reproduced and used as inspiration for further data visualisations and algorithmic processing of the Magister Dixit metadata. <br>
 An executable version of the notebook can also be accessed through [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/martinaverna/Magister-Dixit-Metadata-Exploration/master?filepath=Magister-Dixit-Jupyter-Notebook.ipynb) (click on the widget and wait some seconds for the repository to load). <br>
