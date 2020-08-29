@@ -11,7 +11,7 @@ The Magister Dixit Metadata Exploration lets users explore the bibliographic met
 The repository is meant as an example of creative reuses, data visualisations and algorithmic processing of the Magister Dixit Collection. It is designated - on its turn - as a free resource for digital humanities research and engagement.
 
 # The Magister Dixit "Professional Groups" dataset
-The Magister_Dixit_professional_groups.csv is a “customized” version of the [Magister_Dixit_Collection_Dataset.csv](https://raw.githubusercontent.com/KULeuvenDigitalisering/Magister-Dixit-Collection-Dataset/master/Magister_Dixit_Collection_Dataset.csv) created by modifying the original dataset with the open source application OpenRefine. 
+The [Magister_Dixit_professional_groups.csv](https://github.com/martinaverna/Magister-Dixit-Metadata-Exploration/blob/master/Magister_Dixit_professional_groups.csv) is a “customized” version of the [Magister_Dixit_Collection_Dataset.csv](https://raw.githubusercontent.com/KULeuvenDigitalisering/Magister-Dixit-Collection-Dataset/master/Magister_Dixit_Collection_Dataset.csv) created by modifying the original dataset with the open source application OpenRefine. 
 <br>
 
 **Technical Aspects**<br>
