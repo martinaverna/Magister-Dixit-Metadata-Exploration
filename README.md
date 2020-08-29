@@ -62,7 +62,8 @@ Note: <br>
 
 # The Magister Dixit Jupyter Notebook
 The [Magister Dixit Jupyter Notebook](https://github.com/martinaverna/Magister-Dixit-Metadata-Exploration/blob/master/Magister-Dixit-Jupyter-Notebook.ipynb) is offered as a tool for exploring and analysing the Magister Dixit metadata collection. It is meant to be reproduced and used as inspiration for further data visualisations and algorithmic processing of the Magister Dixit metadata. <br>
-An executable version of the notebook can also be accessed through [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/martinaverna/Magister-Dixit-Metadata-Exploration/master?filepath=Magister-Dixit-Jupyter-Notebook.ipynb) <br>
+An executable version of the notebook can also be accessed through Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/martinaverna/Magister-Dixit-Metadata-Exploration/master?filepath=Magister-Dixit-Jupyter-Notebook.ipynb) <br>
+Note: <br>
 Click on the widget and wait some seconds for the repository to load. <br>
 Once the Notebook is open in Binder, add a cell at the beginning and run the following: <br>
 import sys <br>
